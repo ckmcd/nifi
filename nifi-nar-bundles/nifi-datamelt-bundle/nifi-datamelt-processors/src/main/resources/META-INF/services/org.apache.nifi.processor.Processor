@@ -1,0 +1,2 @@
+com.datamelt.nifi.processors.MergeTemplate
+com.datamelt.nifi.processors.SplitToAttribute
